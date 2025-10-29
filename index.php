@@ -7,6 +7,7 @@
 </head>
 <body>
     <h1>Tizón</h1>
+    <form action="tizon.php"></form>
     
 </body>
 </html>
